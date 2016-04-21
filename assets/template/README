@@ -1,0 +1,4 @@
+<%=name%>
+=========
+
+An isomorphic react/redux web application built with @r/mothership.
