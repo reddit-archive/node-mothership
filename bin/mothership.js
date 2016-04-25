@@ -17,4 +17,4 @@ require('babel-register')({
   ],
 });
 
-require('./launcher/index').default.run(argv);
+require('../lib/mothership').default(argv);
