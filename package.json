@@ -1,6 +1,6 @@
 {
   "name": "@r/mothership",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "launch @r/platform projects",
   "main": "index.js",
   "bin": {
